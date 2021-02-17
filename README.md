@@ -6,12 +6,12 @@ The theme was to design a game application which would be helpful to the communi
 <h2>Our Expectations</h2>
 
 [video link](https://youtu.be/i3Sf6ZVtoys)
-*Disclaimer: This are our prerecorded expectations
+<br> *This is fake*
 
 <h2>vs.. well, REALITY</h2>
 
 [video link](https://youtu.be/i3Sf6ZVtoys)
-*This is real
+<br> *This is real*
 
 In an attempt to use ASL (American Sign Language) to control our character sprite, we created a small model architecture of three 2D convolutional layers and 1 fully connected layer. We then trained it on the letters UDLRK (up, down, left, right, kill, nothing) with 2000 images in each class. We hoped that with a small model with fewer classification classes, the accuracy would be better for each alphabet. The results weren't amazing..... but it was the most optimal state achieved in a short timeframe.
 
