@@ -1,4 +1,6 @@
 # Follow the Signs - creating Gesture Games using Computer Vision
+*Done by: Lim Sheng Jie, Patria Lim Yun Xuan*
+
 During one of my First Year CS projects, we were tasked with a fun game design assignment which allowed us to use default neural network models that could detect facial emotion.
 
 The theme was to design a game application which would be helpful to the community. Instead of using the default AI model options, my teammate and I were intrigued by the idea of gesture gaming and decided to foray into training "Our First Neural Network". 
