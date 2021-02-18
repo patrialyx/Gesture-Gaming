@@ -10,7 +10,7 @@ The theme was to design a game application which would be helpful to the communi
 [video link](https://drive.google.com/file/d/134XAkXqkEmRU1J-HADcqheTiRwjXqce5/view?usp=sharing)
 <br> *This is fake*
 
-<h2>vs.. well, REALITY</h2>
+<h2>Reality</h2>
 
 [video link](https://drive.google.com/file/d/1yMdLtvpYTzwlghFrGx734MBiMvmurrGM/view?usp=sharing)
 <br> *This is real*
